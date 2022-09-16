@@ -6,10 +6,10 @@ function Navbar() {
     <nav className="navbar">
       <ul>
         <li>
-          <Link to='/'>Home Page</Link>
+          <Link to='/'>Chuck Norris</Link>
         </li>
         <li>
-          <Link to='/dadJoke'>Home Page</Link>
+          <Link to='/dadJoke'>Dad Joke</Link>
         </li>
       </ul>
     </nav>
